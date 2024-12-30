@@ -11,7 +11,8 @@ import SwiftUI
 struct AnkiRemoteApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
+
